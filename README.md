@@ -15,6 +15,8 @@ Um app voltado para gestão financeira de microempresarios.
 Os seguintes contribuidores estão envolvidos no projeto:
 - [dcarminatti](https://github.com/dcarminatti)
 - [joaoaugustopc](https://github.com/joaoaugustopc)
+- [eduardossimas](https://github.com/eduardossimas)
+- [AndrePereira03](https://github.com/AndrePereira03)
 
 ## License
 
