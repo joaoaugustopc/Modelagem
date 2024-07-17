@@ -7,10 +7,6 @@ Um app voltado para gestão financeira de microempresarios.
 - **Frontend:** React.js, Typescript
 - **Backend:** Spring Boot, Java
 
-## Installation Instructions
-
-Nenhuma instalação necessária no momento.
-
 1. ![Screenshot 1](path/to/screenshot1.png)
 2. ![Screenshot 2](path/to/screenshot2.png)
 
