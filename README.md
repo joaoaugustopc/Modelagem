@@ -17,6 +17,7 @@ Os seguintes contribuidores estão envolvidos no projeto:
 - [joaoaugustopc](https://github.com/joaoaugustopc)
 - [eduardossimas](https://github.com/eduardossimas)
 - [AndrePereira03](https://github.com/AndrePereira03)
+- [DaviVilla](https://github.com/DaviVilla)
 
 ## License
 
