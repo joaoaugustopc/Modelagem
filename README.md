@@ -6,6 +6,10 @@ Um app voltado para gestão financeira de microempresarios.
 
 - **Frontend:** React.js, Typescript
 - **Backend:** Spring Boot, Java
+- **Banco de dados:** PostgreSQL ou MySQL
+- **Gerenciamento de Projetos:** Jira ou Trello
+- **Controle de Versão:** GitHub
+- **Documentação:** Confluence ou GoogleDocs
 
 1. ![Screenshot 1](path/to/screenshot1.png)
 2. ![Screenshot 2](path/to/screenshot2.png)
